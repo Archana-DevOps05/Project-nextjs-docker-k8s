@@ -1,4 +1,4 @@
-# Next.js Docker & Minikube Deployme
+# Next.js Docker & Minikube Deployment
 
 ## Project Overview
 This project demonstrates how to **containerize a Next.js application** using Docker, automate builds with **GitHub Actions**, and deploy it on **Kubernetes (Minikube)**.  
