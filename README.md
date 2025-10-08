@@ -136,9 +136,7 @@ kubectl apply -f service.yaml
 # Accessing the Deployment
  Check the status of your pods and services:
 
-kubectl get pods -n noejs
-
-kubectl get svc -n nodejs
+kubectl get pods 
 
 Forward the service port to access it locally:
 
